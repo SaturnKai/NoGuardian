@@ -13,7 +13,7 @@ Download Instructions:
 Program Instructions:
 -----
 
-Simply press the "Start" button and a transparent proxy server will be started on port 8888 on your host machine. Simply connect to the proxy on any device that has GoGuardian installed and restart the device.
+Simply press the "Start" button and a transparent proxy server will be started on port 8888 on your host machine. Then, connect to the proxy on any device that has GoGuardian installed and restart the device.
 
 NoGuardian prevents any attempts that GoGuardian makes to send and retrieve data from its servers including but not limited to:
 

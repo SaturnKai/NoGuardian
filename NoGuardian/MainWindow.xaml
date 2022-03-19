@@ -20,7 +20,7 @@
     <Grid>
         <Border Grid.ColumnSpan="2" Background="#252525" VerticalAlignment="Top">
             <Grid HorizontalAlignment="Stretch">
-                <Label Content="NoGuardian V1.0 - Developed By SaturnKai" Foreground="Gray" FontWeight="SemiBold" FontSize="12px" VerticalAlignment="Center"></Label>
+                <Label Content="NoGuardian V1.1 - Developed By SaturnKai" Foreground="Gray" FontWeight="SemiBold" FontSize="12px" VerticalAlignment="Center"></Label>
                 <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
                     <Button Width="20" Height="20" Content="🗕" Style="{StaticResource MaterialDesignFloatingActionAccentButton}" BorderBrush="Transparent" Background="Transparent" BorderThickness="0" Foreground="Gray" FontWeight="Bold" Click="MinimizeButton_Click"/>
                     <Button Width="20" Height="20" Content="✕" Style="{StaticResource MaterialDesignFloatingActionAccentButton}" BorderBrush="Transparent" Background="Transparent" BorderThickness="0" Foreground="Gray" FontWeight="Bold" Click="ExitButton_Click"/>

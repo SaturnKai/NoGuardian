@@ -92,7 +92,8 @@ namespace NoGuardian
             {
                 blocked++;
                 UpdateLabels();
-                Thread.Sleep(999999999);
+                Thread.Sleep(Timeout.Infinite);
+                return;
             }
             else allowed++;
 

@@ -27,4 +27,4 @@ NoGuardian prevents any attempts that GoGuardian makes to send and retrieve data
 Screenshot:
 -----
 
-![Screenshot 1](https://www.satial.xyz/screenshots/TY7g7bTWhwswA3qQ.png)
+![Screenshot 1](https://raw.githubusercontent.com/SaturnKai/NoGuardian/main/.screenshots/screenshot.png)
